@@ -369,7 +369,7 @@ export default function Home() {
             Get Started in 3 Steps
           </h2>
           <p className="mt-4 text-slate-400 text-lg max-w-2xl text-center">
-            Join the future of trading with a setup so fast, you'll be in the market before you know it.
+            {"Join the future of trading with a setup so fast, you'll be in the market before you know it."}
           </p>
 
           {/* Timeline Container */}
@@ -446,7 +446,7 @@ export default function Home() {
                 <div className="hidden sm:flex w-1/2 justify-end pr-8">
                   <div className="p-6 bg-slate-900/50 border border-violet-500/30 rounded-2xl backdrop-blur-lg max-w-sm text-right">
                     <h3 className="text-2xl font-semibold text-white">Start Trading</h3>
-                    <p className="mt-2 text-slate-400">You're all set. Dive into the markets and execute your first trade.</p>
+                    <p className="mt-2 text-slate-400">{"You're all set. Dive into the markets and execute your first trade."}</p>
                   </div>
                 </div>
                 <div className="hidden sm:flex absolute left-1/2 -translate-x-1/2 w-8 h-8 rounded-full bg-slate-800 border-2 border-cyan-300 items-center justify-center">
@@ -461,7 +461,7 @@ export default function Home() {
                   <div className="ml-16 flex-1">
                     <div className="p-4 bg-slate-900/50 border border-violet-500/30 rounded-2xl backdrop-blur-lg">
                       <h3 className="text-lg font-semibold text-white">Start Trading</h3>
-                      <p className="mt-2 text-sm text-slate-400">You're all set. Dive into the markets and execute your first trade.</p>
+                      <p className="mt-2 text-sm text-slate-400">{"You're all set. Dive into the markets and execute your first trade."}</p>
                     </div>
                   </div>
                 </div>
